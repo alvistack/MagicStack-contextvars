@@ -1,0 +1,5 @@
+python-contextvars source: file-without-copyright-information
+python-contextvars source: no-debian-changes
+python-contextvars source: source-contains-prebuilt-windows-binary
+python-contextvars source: source-is-missing
+python-contextvars source: source-package-encodes-python-version
